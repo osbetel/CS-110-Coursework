@@ -1,0 +1,17 @@
+Test3's Stat Log File
+-----------------------------
+Sessions Played:3
+Sessions Won:2
+Sessions Lost:1
+Games Played:39
+Games Won:19
+Games Lost:11
+Rock played 15 times.
+Paper played 10 times.
+Scissors played 14 times.
+-----------------------------
+Session Start Timestamps
+-----------------------------
+2015-08-19 23:07:23
+2015-08-19 23:07:57
+2015-08-19 23:09:59

@@ -1,0 +1,84 @@
+Test3's RPS Stat Log File
+{'Session Wins': 2, 'S': 14, 'Session Losses': 1, 'Game Losses': 11, 'R': 15, 'Games': 39, 'Sessions': 3, 'Game Ties': 9, 'P': 10, 'Game Wins': 19}
+-------------------------------------------------------
+
+SESSION START
+2015-08-19 23:07:23.471502
+-------------------------------------------------------
+['Test3', 1, 'R', 'P', 'MW', '2015-08-19 23:07:26.597688']
+My my, I've won twice in a row? I must be very good at this game!
+['Test3', 2, 'S', 'R', 'MW', '2015-08-19 23:07:28.232214']
+Either I am excellent at predicting your choices, or you simply suck at this game!
+['Test3', 3, 'P', 'S', 'MW', '2015-08-19 23:07:28.912573']
+['Test3', 4, 'R', 'S', 'UW', '2015-08-19 23:07:29.512358']
+['Test3', 4, 'R', 'R', 'T', '2015-08-19 23:07:30.438465']
+['Test3', 4, 'S', 'S', 'T', '2015-08-19 23:07:31.416231']
+['Test3', 5, 'P', 'R', 'UW', '2015-08-19 23:07:32.384219']
+GAME END. GAME SCORE: USER:2 MACHINE:3.
+2015-08-19 23:07:33.943240
+-------------------------------------------------------
+['Test3', 1, 'R', 'S', 'UW', '2015-08-19 23:07:34.735269']
+['Test3', 1, 'S', 'S', 'T', '2015-08-19 23:07:35.292990']
+['Test3', 2, 'S', 'P', 'UW', '2015-08-19 23:07:35.779229']
+['Test3', 2, 'R', 'R', 'T', '2015-08-19 23:07:36.456908']
+['Test3', 3, 'P', 'R', 'UW', '2015-08-19 23:07:37.723114']
+I don't usually lose so easily! You probably just have beginner's luck.
+['Test3', 4, 'P', 'R', 'UW', '2015-08-19 23:07:38.408214']
+You must be cheating somehow because there's no way I am this bad at such a simple game!
+['Test3', 5, 'R', 'S', 'UW', '2015-08-19 23:07:39.043228']
+GAME END. GAME SCORE: USER:5 MACHINE:0.
+2015-08-19 23:07:41.466273
+-------------------------------------------------------
+['Test3', 0, 'R', 'R', 'T', '2015-08-19 23:07:42.664996']
+['Test3', 1, 'P', 'S', 'MW', '2015-08-19 23:07:43.223109']
+My my, I've won twice in a row? I must be very good at this game!
+['Test3', 2, 'S', 'R', 'MW', '2015-08-19 23:07:43.705254']
+Either I am excellent at predicting your choices, or you simply suck at this game!
+['Test3', 3, 'R', 'P', 'MW', '2015-08-19 23:07:44.280218']
+['Test3', 4, 'R', 'S', 'UW', '2015-08-19 23:07:44.782995']
+I don't usually lose so easily! You probably just have beginner's luck.
+['Test3', 5, 'S', 'P', 'UW', '2015-08-19 23:07:45.279231']
+GAME END. GAME SCORE: USER:2 MACHINE:3.
+SESSION END. SESSION SCORE: USER:1 MACHINE:2.
+2015-08-19 23:07:46.902090
+-------------------------------------------------------
+SESSION START
+2015-08-19 23:07:57.302414
+-------------------------------------------------------
+['Test3', 1, 'R', 'P', 'MW', '2015-08-19 23:08:06.752651']
+['Test3', 2, 'P', 'R', 'UW', '2015-08-19 23:08:07.236844']
+I don't usually lose so easily! You probably just have beginner's luck.
+['Test3', 3, 'P', 'R', 'UW', '2015-08-19 23:08:07.677567']
+['Test3', 4, 'S', 'R', 'MW', '2015-08-19 23:08:08.145718']
+['Test3', 4, 'R', 'R', 'T', '2015-08-19 23:08:08.577928']
+['Test3', 5, 'S', 'P', 'UW', '2015-08-19 23:08:09.345931']
+GAME END. GAME SCORE: USER:3 MACHINE:2.
+SESSION END. SESSION SCORE: USER:1 MACHINE:0.
+2015-08-19 23:08:11.704715
+-------------------------------------------------------
+SESSION START
+2015-08-19 23:09:59.162073
+-------------------------------------------------------
+['Test3', 1, 'R', 'P', 'MW', '2015-08-19 23:10:00.363710']
+['Test3', 1, 'P', 'P', 'T', '2015-08-19 23:10:00.928536']
+['Test3', 2, 'P', 'S', 'MW', '2015-08-19 23:10:01.443811']
+['Test3', 3, 'S', 'P', 'UW', '2015-08-19 23:10:01.937216']
+I don't usually lose so easily! You probably just have beginner's luck.
+['Test3', 4, 'R', 'S', 'UW', '2015-08-19 23:10:02.429029']
+You must be cheating somehow because there's no way I am this bad at such a simple game!
+['Test3', 5, 'S', 'P', 'UW', '2015-08-19 23:10:02.946327']
+GAME END. GAME SCORE: USER:3 MACHINE:2.
+2015-08-19 23:10:04.534164
+-------------------------------------------------------
+['Test3', 1, 'R', 'S', 'UW', '2015-08-19 23:10:05.110338']
+['Test3', 1, 'P', 'P', 'T', '2015-08-19 23:10:05.574452']
+['Test3', 1, 'S', 'S', 'T', '2015-08-19 23:10:06.048976']
+['Test3', 2, 'R', 'S', 'UW', '2015-08-19 23:10:06.480216']
+['Test3', 3, 'S', 'R', 'MW', '2015-08-19 23:10:06.927266']
+['Test3', 4, 'S', 'P', 'UW', '2015-08-19 23:10:07.403423']
+I don't usually lose so easily! You probably just have beginner's luck.
+['Test3', 5, 'S', 'P', 'UW', '2015-08-19 23:10:08.570193']
+GAME END. GAME SCORE: USER:4 MACHINE:1.
+SESSION END. SESSION SCORE: USER:2 MACHINE:0.
+2015-08-19 23:10:11.716930
+-------------------------------------------------------

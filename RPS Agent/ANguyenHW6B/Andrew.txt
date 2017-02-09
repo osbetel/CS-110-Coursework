@@ -1,0 +1,542 @@
+Andrew's RPS Stat Log File
+{'P': 59, 'Session Wins': 22, 'S': 92, 'Game Ties': 83, 'Sessions': 34, 'R': 104, 'Game Losses': 71, 'Games': 255, 'Game Wins': 101, 'Session Losses': 11}
+-------------------------------------------------------
+
+SESSION START
+2015-08-20 00:19:16.229576
+-------------------------------------------------------
+['Andrew', 1, 'R', 'P', 'MW', '2015-08-20 00:19:22.297272']
+['Andrew', 1, 'P', 'P', 'T', '2015-08-20 00:19:22.888123']
+['Andrew', 1, 'P', 'P', 'T', '2015-08-20 00:19:23.475948']
+['Andrew', 1, 'R', 'R', 'T', '2015-08-20 00:19:24.033988']
+['Andrew', 2, 'S', 'R', 'MW', '2015-08-20 00:19:24.898294']
+['Andrew', 2, 'P', 'P', 'T', '2015-08-20 00:19:25.437244']
+['Andrew', 3, 'R', 'P', 'MW', '2015-08-20 00:19:26.156116']
+['Andrew', 4, 'S', 'P', 'UW', '2015-08-20 00:19:26.749940']
+['Andrew', 5, 'R', 'P', 'MW', '2015-08-20 00:19:27.423870']
+GAME END. GAME SCORE: USER:1 MACHINE:4.
+SESSION END. SESSION SCORE: USER:0 MACHINE:1.
+2015-08-20 00:19:29.029025
+-------------------------------------------------------
+SESSION START
+2015-08-20 00:19:49.043724
+-------------------------------------------------------
+['Andrew', 1, 'R', 'S', 'UW', '2015-08-20 00:19:52.922773']
+I don't usually lose so easily! You probably just have beginner's luck.
+['Andrew', 2, 'P', 'R', 'UW', '2015-08-20 00:19:53.437390']
+You must be cheating somehow because there's no way I am this bad at such a simple game!
+['Andrew', 3, 'P', 'R', 'UW', '2015-08-20 00:19:53.890720']
+['Andrew', 3, 'S', 'S', 'T', '2015-08-20 00:19:54.385644']
+['Andrew', 4, 'R', 'S', 'UW', '2015-08-20 00:19:54.807951']
+I don't usually lose so easily! You probably just have beginner's luck.
+['Andrew', 5, 'R', 'S', 'UW', '2015-08-20 00:19:55.833644']
+GAME END. GAME SCORE: USER:5 MACHINE:0.
+SESSION END. SESSION SCORE: USER:1 MACHINE:0.
+2015-08-20 00:19:57.827436
+-------------------------------------------------------
+SESSION START
+2015-08-20 00:34:04.583857
+-------------------------------------------------------
+['Andrew', 0, 'R', 'R', 'T', '2015-08-20 00:34:08.710867']
+['Andrew', 1, 'P', 'S', 'MW', '2015-08-20 00:34:09.410855']
+['Andrew', 2, 'S', 'P', 'UW', '2015-08-20 00:34:10.233627']
+I don't usually lose so easily! You probably just have beginner's luck.
+['Andrew', 3, 'R', 'S', 'UW', '2015-08-20 00:34:10.889889']
+['Andrew', 3, 'R', 'R', 'T', '2015-08-20 00:34:11.506823']
+['Andrew', 4, 'P', 'R', 'UW', '2015-08-20 00:34:12.420393']
+['Andrew', 5, 'S', 'R', 'MW', '2015-08-20 00:34:13.418544']
+GAME END. GAME SCORE: USER:3 MACHINE:2.
+SESSION END. SESSION SCORE: USER:1 MACHINE:0.
+2015-08-20 00:34:15.828506
+-------------------------------------------------------
+SESSION START
+2015-08-20 00:34:37.721868
+-------------------------------------------------------
+['Andrew', 0, 'R', 'R', 'T', '2015-08-20 00:34:40.098969']
+['Andrew', 0, 'R', 'R', 'T', '2015-08-20 00:34:41.206909']
+['Andrew', 1, 'S', 'R', 'MW', '2015-08-20 00:34:41.892183']
+['Andrew', 1, 'P', 'P', 'T', '2015-08-20 00:34:42.561999']
+['Andrew', 2, 'P', 'R', 'UW', '2015-08-20 00:34:43.213933']
+I don't usually lose so easily! You probably just have beginner's luck.
+['Andrew', 3, 'R', 'S', 'UW', '2015-08-20 00:34:43.838071']
+You must be cheating somehow because there's no way I am this bad at such a simple game!
+['Andrew', 4, 'S', 'P', 'UW', '2015-08-20 00:34:44.545458']
+That's it! You're definitely a cheater! I'm going to find someone else to play with!
+['Andrew', 5, 'R', 'S', 'UW', '2015-08-20 00:34:45.195160']
+GAME END. GAME SCORE: USER:4 MACHINE:1.
+SESSION END. SESSION SCORE: USER:1 MACHINE:0.
+2015-08-20 00:34:47.450620
+-------------------------------------------------------
+SESSION START
+2015-08-20 00:36:22.186935
+-------------------------------------------------------
+['Andrew', 1, 'R', 'P', 'MW', '2015-08-20 00:36:25.374619']
+['Andrew', 2, 'P', 'R', 'UW', '2015-08-20 00:36:26.085758']
+['Andrew', 2, 'P', 'P', 'T', '2015-08-20 00:36:26.641918']
+['Andrew', 2, 'P', 'P', 'T', '2015-08-20 00:36:27.157662']
+['Andrew', 3, 'P', 'R', 'UW', '2015-08-20 00:36:27.624754']
+['Andrew', 3, 'S', 'S', 'T', '2015-08-20 00:36:28.087981']
+['Andrew', 3, 'S', 'S', 'T', '2015-08-20 00:36:28.614707']
+['Andrew', 3, 'R', 'R', 'T', '2015-08-20 00:36:29.091757']
+['Andrew', 4, 'R', 'P', 'MW', '2015-08-20 00:36:29.557844']
+['Andrew', 5, 'P', 'R', 'UW', '2015-08-20 00:36:30.102333']
+GAME END. GAME SCORE: USER:3 MACHINE:2.
+2015-08-20 00:36:34.798733
+-------------------------------------------------------
+['Andrew', 1, 'R', 'P', 'MW', '2015-08-20 00:36:37.932693']
+My my, I've won twice in a row? I must be very good at this game!
+['Andrew', 2, 'S', 'R', 'MW', '2015-08-20 00:36:38.499656']
+Either I am excellent at predicting your choices, or you simply suck at this game!
+['Andrew', 3, 'R', 'P', 'MW', '2015-08-20 00:36:39.009542']
+This is getting boring; you don't give me a challenge at all. I'm leaving.
+['Andrew', 4, 'P', 'S', 'MW', '2015-08-20 00:36:39.585595']
+GAME END. GAME SCORE: USER:0 MACHINE:4.
+SESSION END. SESSION SCORE: USER:1 MACHINE:1.
+2015-08-20 00:36:42.574332
+-------------------------------------------------------
+SESSION START
+2015-08-20 00:37:52.110953
+-------------------------------------------------------
+['Andrew', 1, 'R', 'S', 'UW', '2015-08-20 00:37:54.572226']
+I don't usually lose so easily! You probably just have beginner's luck.
+['Andrew', 2, 'P', 'R', 'UW', '2015-08-20 00:37:55.181479']
+You must be cheating somehow because there's no way I am this bad at such a simple game!
+['Andrew', 3, 'S', 'P', 'UW', '2015-08-20 00:37:55.793284']
+['Andrew', 3, 'R', 'R', 'T', '2015-08-20 00:37:56.499140']
+['Andrew', 3, 'P', 'P', 'T', '2015-08-20 00:37:57.859281']
+['Andrew', 4, 'S', 'P', 'UW', '2015-08-20 00:37:58.786210']
+['Andrew', 5, 'S', 'R', 'MW', '2015-08-20 00:37:59.938511']
+GAME END. GAME SCORE: USER:4 MACHINE:1.
+SESSION END. SESSION SCORE: USER:1 MACHINE:0.
+2015-08-20 00:38:01.853048
+-------------------------------------------------------
+SESSION START
+2015-08-20 00:38:50.129304
+-------------------------------------------------------
+['Andrew', 1, 'R', 'S', 'UW', '2015-08-20 00:38:52.217389']
+I don't usually lose so easily! You probably just have beginner's luck.
+['Andrew', 2, 'R', 'S', 'UW', '2015-08-20 00:38:52.663151']
+['Andrew', 2, 'S', 'S', 'T', '2015-08-20 00:38:53.118104']
+['Andrew', 3, 'P', 'R', 'UW', '2015-08-20 00:38:53.688520']
+['Andrew', 3, 'R', 'R', 'T', '2015-08-20 00:38:54.274455']
+['Andrew', 4, 'S', 'P', 'UW', '2015-08-20 00:38:54.922364']
+I don't usually lose so easily! You probably just have beginner's luck.
+['Andrew', 5, 'S', 'P', 'UW', '2015-08-20 00:38:55.757236']
+GAME END. GAME SCORE: USER:5 MACHINE:0.
+SESSION END. SESSION SCORE: USER:1 MACHINE:0.
+2015-08-20 00:38:57.481997
+-------------------------------------------------------
+SESSION START
+2015-08-20 00:41:32.713932
+-------------------------------------------------------
+['Andrew', 1, 'R', 'P', 'MW', '2015-08-20 00:41:35.740301']
+['Andrew', 1, 'R', 'R', 'T', '2015-08-20 00:41:36.238694']
+['Andrew', 2, 'R', 'S', 'UW', '2015-08-20 00:41:36.480372']
+['Andrew', 3, 'R', 'P', 'MW', '2015-08-20 00:41:36.695145']
+['Andrew', 3, 'R', 'R', 'T', '2015-08-20 00:41:36.871532']
+['Andrew', 3, 'R', 'R', 'T', '2015-08-20 00:41:37.052536']
+['Andrew', 4, 'R', 'S', 'UW', '2015-08-20 00:41:37.224316']
+['Andrew', 5, 'R', 'P', 'MW', '2015-08-20 00:41:37.380504']
+GAME END. GAME SCORE: USER:2 MACHINE:3.
+SESSION END. SESSION SCORE: USER:0 MACHINE:1.
+2015-08-20 00:41:44.754442
+-------------------------------------------------------
+SESSION START
+2015-08-20 00:42:30.635505
+-------------------------------------------------------
+['Andrew', 1, 'R', 'S', 'UW', '2015-08-20 00:42:33.094475']
+['Andrew', 2, 'P', 'S', 'MW', '2015-08-20 00:42:33.920519']
+['Andrew', 3, 'P', 'R', 'UW', '2015-08-20 00:42:34.266796']
+I don't usually lose so easily! You probably just have beginner's luck.
+['Andrew', 4, 'P', 'R', 'UW', '2015-08-20 00:42:37.120502']
+['Andrew', 5, 'S', 'R', 'MW', '2015-08-20 00:42:38.451262']
+GAME END. GAME SCORE: USER:3 MACHINE:2.
+SESSION END. SESSION SCORE: USER:1 MACHINE:0.
+2015-08-20 00:42:40.099507
+-------------------------------------------------------
+SESSION START
+2015-08-20 00:43:05.986856
+-------------------------------------------------------
+['Andrew', 1, 'S', 'P', 'UW', '2015-08-20 00:43:08.060765']
+['Andrew', 2, 'S', 'R', 'MW', '2015-08-20 00:43:08.316972']
+['Andrew', 3, 'S', 'P', 'UW', '2015-08-20 00:43:08.520899']
+['Andrew', 3, 'S', 'S', 'T', '2015-08-20 00:43:08.717672']
+['Andrew', 4, 'S', 'P', 'UW', '2015-08-20 00:43:08.891689']
+['Andrew', 4, 'S', 'S', 'T', '2015-08-20 00:43:09.053823']
+['Andrew', 4, 'S', 'S', 'T', '2015-08-20 00:43:10.337941']
+['Andrew', 4, 'P', 'P', 'T', '2015-08-20 00:43:11.673675']
+['Andrew', 5, 'R', 'S', 'UW', '2015-08-20 00:43:12.483044']
+GAME END. GAME SCORE: USER:4 MACHINE:1.
+SESSION END. SESSION SCORE: USER:1 MACHINE:0.
+2015-08-20 00:43:14.143681
+-------------------------------------------------------
+SESSION START
+2015-08-20 00:45:07.967244
+-------------------------------------------------------
+['Andrew', 1, 'R', 'S', 'UW', '2015-08-20 00:45:09.657631']
+['Andrew', 1, 'R', 'R', 'T', '2015-08-20 00:45:09.934287']
+['Andrew', 1, 'R', 'R', 'T', '2015-08-20 00:45:10.166348']
+['Andrew', 1, 'S', 'S', 'T', '2015-08-20 00:45:10.458203']
+['Andrew', 2, 'S', 'P', 'UW', '2015-08-20 00:45:10.690184']
+['Andrew', 2, 'S', 'S', 'T', '2015-08-20 00:45:10.929288']
+['Andrew', 2, 'P', 'P', 'T', '2015-08-20 00:45:11.496341']
+['Andrew', 2, 'P', 'P', 'T', '2015-08-20 00:45:11.796604']
+['Andrew', 3, 'P', 'R', 'UW', '2015-08-20 00:45:12.031302']
+I don't usually lose so easily! You probably just have beginner's luck.
+['Andrew', 4, 'S', 'P', 'UW', '2015-08-20 00:45:12.697364']
+['Andrew', 5, 'S', 'R', 'MW', '2015-08-20 00:45:13.823274']
+GAME END. GAME SCORE: USER:4 MACHINE:1.
+SESSION END. SESSION SCORE: USER:1 MACHINE:0.
+2015-08-20 00:45:15.874768
+-------------------------------------------------------
+SESSION START
+2015-08-20 00:46:29.990174
+-------------------------------------------------------
+['Andrew', 0, 'R', 'R', 'T', '2015-08-20 00:46:34.360156']
+['Andrew', 0, 'P', 'P', 'T', '2015-08-20 00:46:34.912170']
+['Andrew', 1, 'P', 'R', 'UW', '2015-08-20 00:46:35.277236']
+['Andrew', 1, 'P', 'P', 'T', '2015-08-20 00:46:35.694971']
+['Andrew', 2, 'P', 'S', 'MW', '2015-08-20 00:46:36.107187']
+['Andrew', 2, 'P', 'P', 'T', '2015-08-20 00:46:36.530115']
+['Andrew', 3, 'P', 'R', 'UW', '2015-08-20 00:46:36.883181']
+['Andrew', 4, 'S', 'R', 'MW', '2015-08-20 00:46:38.990102']
+My my, I've won twice in a row? I must be very good at this game!
+['Andrew', 5, 'S', 'R', 'MW', '2015-08-20 00:46:40.077138']
+GAME END. GAME SCORE: USER:2 MACHINE:3.
+SESSION END. SESSION SCORE: USER:0 MACHINE:1.
+2015-08-20 00:46:43.328057
+-------------------------------------------------------
+SESSION START
+2015-08-20 00:48:53.897803
+-------------------------------------------------------
+['Andrew', 1, 'R', 'P', 'MW', '2015-08-20 00:48:56.578434']
+['Andrew', 2, 'S', 'P', 'UW', '2015-08-20 00:48:57.121943']
+I don't usually lose so easily! You probably just have beginner's luck.
+['Andrew', 3, 'S', 'P', 'UW', '2015-08-20 00:48:57.348563']
+['Andrew', 4, 'S', 'R', 'MW', '2015-08-20 00:48:57.548125']
+['Andrew', 4, 'S', 'S', 'T', '2015-08-20 00:48:57.746528']
+['Andrew', 5, 'S', 'R', 'MW', '2015-08-20 00:48:57.924215']
+GAME END. GAME SCORE: USER:2 MACHINE:3.
+SESSION END. SESSION SCORE: USER:0 MACHINE:1.
+2015-08-20 00:48:59.791365
+-----
+SESSION START
+2015-08-20 00:51:50.309882
+-------------------------------------------------------
+['Andrew', 0, 'R', 'R', 'T', '2015-08-20 00:51:53.734063']
+['Andrew', 1, 'S', 'P', 'UW', '2015-08-20 00:51:54.659847']
+['Andrew', 2, 'P', 'S', 'MW', '2015-08-20 00:51:55.095115']
+['Andrew', 2, 'P', 'P', 'T', '2015-08-20 00:51:55.438111']
+['Andrew', 3, 'R', 'S', 'UW', '2015-08-20 00:51:55.788313']
+['Andrew', 3, 'R', 'R', 'T', '2015-08-20 00:51:56.181498']
+['Andrew', 4, 'S', 'P', 'UW', '2015-08-20 00:51:56.614272']
+['Andrew', 5, 'S', 'R', 'MW', '2015-08-20 00:51:57.503071']
+GAME END. GAME SCORE: USER:3 MACHINE:2.
+SESSION END. SESSION SCORE: USER:1 MACHINE:0.
+2015-08-20 00:51:59.232015
+-------------------------------------------------------
+SESSION START
+2015-08-20 00:52:55.377821
+-------------------------------------------------------
+['Andrew', 1, 'R', 'S', 'UW', '2015-08-20 00:52:59.592195']
+I don't usually lose so easily! You probably just have beginner's luck.
+['Andrew', 2, 'P', 'R', 'UW', '2015-08-20 00:53:00.143098']
+You must be cheating somehow because there's no way I am this bad at such a simple game!
+['Andrew', 3, 'S', 'P', 'UW', '2015-08-20 00:53:00.615776']
+That's it! You're definitely a cheater! I'm going to find someone else to play with!
+['Andrew', 4, 'S', 'P', 'UW', '2015-08-20 00:53:01.037086']
+GAME END. GAME SCORE: USER:4 MACHINE:0.
+SESSION END. SESSION SCORE: USER:1 MACHINE:0.
+2015-08-20 00:53:03.347870
+-------------------------------------------------------
+SESSION START
+2015-08-20 00:53:59.641922
+-------------------------------------------------------
+['Andrew', 1, 'R', 'S', 'UW', '2015-08-20 00:54:02.873129']
+['Andrew', 1, 'R', 'R', 'T', '2015-08-20 00:54:03.127580']
+['Andrew', 1, 'R', 'R', 'T', '2015-08-20 00:54:03.306425']
+['Andrew', 1, 'R', 'R', 'T', '2015-08-20 00:54:03.468162']
+['Andrew', 1, 'R', 'R', 'T', '2015-08-20 00:54:03.638130']
+['Andrew', 1, 'R', 'R', 'T', '2015-08-20 00:54:03.825432']
+['Andrew', 1, 'R', 'R', 'T', '2015-08-20 00:54:03.947009']
+['Andrew', 2, 'R', 'S', 'UW', '2015-08-20 00:54:04.105326']
+I don't usually lose so easily! You probably just have beginner's luck.
+['Andrew', 3, 'R', 'S', 'UW', '2015-08-20 00:54:04.302798']
+['Andrew', 3, 'R', 'R', 'T', '2015-08-20 00:54:04.448819']
+['Andrew', 3, 'R', 'R', 'T', '2015-08-20 00:54:04.626352']
+['Andrew', 4, 'R', 'P', 'MW', '2015-08-20 00:54:04.807982']
+['Andrew', 4, 'R', 'R', 'T', '2015-08-20 00:54:05.036237']
+['Andrew', 4, 'P', 'P', 'T', '2015-08-20 00:54:06.470108']
+['Andrew', 5, 'S', 'P', 'UW', '2015-08-20 00:54:07.401150']
+GAME END. GAME SCORE: USER:4 MACHINE:1.
+SESSION END. SESSION SCORE: USER:1 MACHINE:0.
+2015-08-20 00:54:09.240082
+-------------------------------------------------------
+SESSION START
+2015-08-20 00:55:05.175992
+-------------------------------------------------------
+['Andrew', 1, 'R', 'S', 'UW', '2015-08-20 00:55:09.567762']
+I don't usually lose so easily! You probably just have beginner's luck.
+['Andrew', 2, 'P', 'R', 'UW', '2015-08-20 00:55:10.174147']
+['Andrew', 2, 'S', 'S', 'T', '2015-08-20 00:55:10.586023']
+['Andrew', 3, 'S', 'P', 'UW', '2015-08-20 00:55:10.942973']
+I don't usually lose so easily! You probably just have beginner's luck.
+['Andrew', 4, 'R', 'S', 'UW', '2015-08-20 00:55:11.311205']
+['Andrew', 4, 'P', 'P', 'T', '2015-08-20 00:55:11.761654']
+['Andrew', 5, 'S', 'P', 'UW', '2015-08-20 00:55:12.652143']
+GAME END. GAME SCORE: USER:5 MACHINE:0.
+SESSION END. SESSION SCORE: USER:1 MACHINE:0.
+2015-08-20 00:55:14.068232
+-------------------------------------------------------
+SESSION START
+2015-08-20 00:55:46.351147
+-------------------------------------------------------
+['ANDREW', 1, 'R', 'P', 'MW', '2015-08-20 00:55:48.208274']
+['ANDREW', 2, 'R', 'S', 'UW', '2015-08-20 00:55:48.430516']
+['ANDREW', 3, 'R', 'P', 'MW', '2015-08-20 00:55:48.634496']
+My my, I've won twice in a row? I must be very good at this game!
+['ANDREW', 4, 'R', 'P', 'MW', '2015-08-20 00:55:48.748572']
+['ANDREW', 4, 'R', 'R', 'T', '2015-08-20 00:55:48.949505']
+['ANDREW', 5, 'R', 'P', 'MW', '2015-08-20 00:55:49.114331']
+GAME END. GAME SCORE: USER:1 MACHINE:4.
+SESSION END. SESSION SCORE: USER:0 MACHINE:1.
+2015-08-20 00:55:58.105981
+-------------------------------------------------------
+SESSION START
+2015-08-20 00:56:37.569758
+-------------------------------------------------------
+['Andrew', 1, 'R', 'S', 'UW', '2015-08-20 00:56:39.241041']
+I don't usually lose so easily! You probably just have beginner's luck.
+['Andrew', 2, 'P', 'R', 'UW', '2015-08-20 00:56:39.702460']
+You must be cheating somehow because there's no way I am this bad at such a simple game!
+['Andrew', 3, 'P', 'R', 'UW', '2015-08-20 00:56:40.050840']
+That's it! You're definitely a cheater! I'm going to find someone else to play with!
+['Andrew', 4, 'P', 'R', 'UW', '2015-08-20 00:56:40.369105']
+GAME END. GAME SCORE: USER:4 MACHINE:0.
+SESSION END. SESSION SCORE: USER:1 MACHINE:0.
+2015-08-20 00:56:42.798070
+-------------------------------------------------------
+SESSION START
+2015-08-20 00:57:33.938289
+-------------------------------------------------------
+['Andrew', 1, 'R', 'P', 'MW', '2015-08-20 00:57:39.194057']
+['Andrew', 2, 'R', 'S', 'UW', '2015-08-20 00:57:39.405127']
+['Andrew', 2, 'R', 'R', 'T', '2015-08-20 00:57:39.596322']
+['Andrew', 2, 'R', 'R', 'T', '2015-08-20 00:57:39.827143']
+['Andrew', 3, 'R', 'S', 'UW', '2015-08-20 00:57:40.126860']
+['Andrew', 3, 'P', 'P', 'T', '2015-08-20 00:57:40.940921']
+['Andrew', 4, 'P', 'R', 'UW', '2015-08-20 00:57:41.303379']
+['Andrew', 5, 'P', 'S', 'MW', '2015-08-20 00:57:42.102633']
+GAME END. GAME SCORE: USER:3 MACHINE:2.
+SESSION END. SESSION SCORE: USER:1 MACHINE:0.
+2015-08-20 00:57:44.164961
+-------------------------------------------------------
+SESSION START
+2015-08-20 01:02:21.276752
+-------------------------------------------------------
+['Andrew', 1, 'S', 'R', 'MW', '2015-08-20 01:02:23.463260']
+My my, I've won twice in a row? I must be very good at this game!
+['Andrew', 2, 'S', 'R', 'MW', '2015-08-20 01:02:23.667255']
+['Andrew', 2, 'S', 'S', 'T', '2015-08-20 01:02:23.850661']
+['Andrew', 2, 'S', 'S', 'T', '2015-08-20 01:02:23.993176']
+['Andrew', 2, 'S', 'S', 'T', '2015-08-20 01:02:24.211393']
+['Andrew', 3, 'S', 'P', 'UW', '2015-08-20 01:02:24.436048']
+I don't usually lose so easily! You probably just have beginner's luck.
+['Andrew', 4, 'S', 'P', 'UW', '2015-08-20 01:02:25.045570']
+['Andrew', 5, 'S', 'R', 'MW', '2015-08-20 01:02:25.435252']
+GAME END. GAME SCORE: USER:2 MACHINE:3.
+SESSION END. SESSION SCORE: USER:0 MACHINE:1.
+2015-08-20 01:02:27.346230
+-------------------------------------------------------
+SESSION START
+2015-08-20 01:16:40.482637
+-------------------------------------------------------
+['Andrew', 1, 'R', 'P', 'MW', '2015-08-20 01:16:42.396931']
+My my, I've won twice in a row? I must be very good at this game!
+['Andrew', 2, 'P', 'S', 'MW', '2015-08-20 01:16:42.787811']
+Either I am excellent at predicting your choices, or you simply suck at this game!
+['Andrew', 3, 'P', 'S', 'MW', '2015-08-20 01:16:43.208721']
+['Andrew', 4, 'S', 'P', 'UW', '2015-08-20 01:16:43.613740']
+['Andrew', 5, 'R', 'P', 'MW', '2015-08-20 01:16:44.020713']
+GAME END. GAME SCORE: USER:1 MACHINE:4.
+SESSION END. SESSION SCORE: USER:0 MACHINE:1.
+2015-08-20 01:16:46.673678
+-------------------------------------------------------
+SESSION START
+2015-08-20 01:17:41.420566
+-------------------------------------------------------
+['Andrew', 1, 'R', 'S', 'UW', '2015-08-20 01:17:44.007498']
+['Andrew', 1, 'P', 'P', 'T', '2015-08-20 01:17:44.556056']
+['Andrew', 2, 'S', 'P', 'UW', '2015-08-20 01:17:44.976158']
+['Andrew', 3, 'R', 'P', 'MW', '2015-08-20 01:17:45.413357']
+['Andrew', 4, 'S', 'P', 'UW', '2015-08-20 01:17:45.855137']
+I don't usually lose so easily! You probably just have beginner's luck.
+['Andrew', 5, 'R', 'S', 'UW', '2015-08-20 01:17:46.508249']
+GAME END. GAME SCORE: USER:4 MACHINE:1.
+SESSION END. SESSION SCORE: USER:1 MACHINE:0.
+2015-08-20 01:17:48.350887
+-------------------------------------------------------
+SESSION START
+2015-08-20 01:19:05.619097
+-------------------------------------------------------
+['Andrew', 1, 'R', 'P', 'MW', '2015-08-20 01:19:08.615255']
+['Andrew', 2, 'R', 'S', 'UW', '2015-08-20 01:19:09.533163']
+I don't usually lose so easily! You probably just have beginner's luck.
+['Andrew', 3, 'S', 'P', 'UW', '2015-08-20 01:19:09.934208']
+['Andrew', 3, 'S', 'S', 'T', '2015-08-20 01:19:10.193257']
+['Andrew', 4, 'S', 'P', 'UW', '2015-08-20 01:19:10.431200']
+I don't usually lose so easily! You probably just have beginner's luck.
+['Andrew', 5, 'S', 'P', 'UW', '2015-08-20 01:19:11.184294']
+GAME END. GAME SCORE: USER:4 MACHINE:1.
+SESSION END. SESSION SCORE: USER:1 MACHINE:0.
+2015-08-20 01:19:12.867098
+-------------------------------------------------------['Andrew', 1, 'R', 'S', 'UW', '2015-08-20 01:19:17.819994']
+I don't usually lose so easily! You probably just have beginner's luck.
+['Andrew', 2, 'R', 'S', 'UW', '2015-08-20 01:19:18.014045']
+['Andrew', 3, 'R', 'P', 'MW', '2015-08-20 01:19:18.197016']
+['Andrew', 4, 'R', 'S', 'UW', '2015-08-20 01:19:18.349892']
+['Andrew', 4, 'R', 'R', 'T', '2015-08-20 01:19:18.507713']
+['Andrew', 5, 'R', 'P', 'MW', '2015-08-20 01:19:18.713103']
+GAME END. GAME SCORE: USER:3 MACHINE:2.
+SESSION END. SESSION SCORE: USER:2 MACHINE:0.
+2015-08-20 01:19:22.184743
+-------------------------------------------------------
+SESSION START
+2015-08-20 01:20:04.492451
+-------------------------------------------------------
+['Andrew', 1, 'R', 'P', 'MW', '2015-08-20 01:20:07.316903']
+My my, I've won twice in a row? I must be very good at this game!
+['Andrew', 2, 'S', 'R', 'MW', '2015-08-20 01:20:07.907736']
+Either I am excellent at predicting your choices, or you simply suck at this game!
+['Andrew', 3, 'S', 'R', 'MW', '2015-08-20 01:20:08.113713']
+['Andrew', 3, 'S', 'S', 'T', '2015-08-20 01:20:08.298000']
+['Andrew', 3, 'S', 'S', 'T', '2015-08-20 01:20:08.476043']
+['Andrew', 4, 'S', 'R', 'MW', '2015-08-20 01:20:08.652994']
+['Andrew', 5, 'S', 'P', 'UW', '2015-08-20 01:20:08.878281']
+GAME END. GAME SCORE: USER:1 MACHINE:4.
+SESSION END. SESSION SCORE: USER:0 MACHINE:1.
+2015-08-20 01:20:11.131883
+-------------------------------------------------------
+SESSION START
+2015-08-20 01:25:18.076619
+-------------------------------------------------------
+['Andrew', 1, 'R', 'P', 'MW', '2015-08-20 01:25:20.592724']
+My my, I've won twice in a row? I must be very good at this game!
+['Andrew', 2, 'R', 'P', 'MW', '2015-08-20 01:25:20.895940']
+['Andrew', 3, 'R', 'S', 'UW', '2015-08-20 01:25:21.131689']
+I don't usually lose so easily! You probably just have beginner's luck.
+['Andrew', 4, 'R', 'S', 'UW', '2015-08-20 01:25:21.335388']
+You must be cheating somehow because there's no way I am this bad at such a simple game!
+['Andrew', 5, 'R', 'S', 'UW', '2015-08-20 01:25:21.504803']
+GAME END. GAME SCORE: USER:3 MACHINE:2.
+SESSION END. SESSION SCORE: USER:1 MACHINE:0.
+2015-08-20 01:25:34.887471
+-------------------------------------------------------
+SESSION START
+2015-08-20 01:26:13.028366
+-------------------------------------------------------
+['ANDREW', 0, 'R', 'R', 'T', '2015-08-20 01:26:14.385116']
+['ANDREW', 1, 'S', 'P', 'UW', '2015-08-20 01:26:14.756263']
+['ANDREW', 2, 'S', 'R', 'MW', '2015-08-20 01:26:14.962366']
+['ANDREW', 2, 'S', 'S', 'T', '2015-08-20 01:26:15.169635']
+['ANDREW', 2, 'S', 'S', 'T', '2015-08-20 01:26:15.328932']
+['ANDREW', 3, 'S', 'R', 'MW', '2015-08-20 01:26:15.500190']
+['ANDREW', 3, 'S', 'S', 'T', '2015-08-20 01:26:15.665874']
+['ANDREW', 4, 'S', 'P', 'UW', '2015-08-20 01:26:15.821083']
+['ANDREW', 4, 'S', 'S', 'T', '2015-08-20 01:26:16.009980']
+['ANDREW', 5, 'S', 'R', 'MW', '2015-08-20 01:26:17.062235']
+GAME END. GAME SCORE: USER:2 MACHINE:3.
+SESSION END. SESSION SCORE: USER:0 MACHINE:1.
+2015-08-20 01:26:18.627036
+-------------------------------------------------------
+SESSION START
+2015-08-20 01:27:42.011539
+-------------------------------------------------------
+['Andrew', 0, 'R', 'R', 'T', '2015-08-20 01:27:43.813527']
+['Andrew', 1, 'P', 'S', 'MW', '2015-08-20 01:27:44.420697']
+My my, I've won twice in a row? I must be very good at this game!
+['Andrew', 2, 'P', 'S', 'MW', '2015-08-20 01:27:44.733434']
+Either I am excellent at predicting your choices, or you simply suck at this game!
+['Andrew', 3, 'P', 'S', 'MW', '2015-08-20 01:27:45.035672']
+['Andrew', 4, 'P', 'R', 'UW', '2015-08-20 01:27:45.347755']
+['Andrew', 5, 'P', 'S', 'MW', '2015-08-20 01:27:45.698482']
+GAME END. GAME SCORE: USER:1 MACHINE:4.
+SESSION END. SESSION SCORE: USER:0 MACHINE:1.
+2015-08-20 01:27:47.320444
+-------------------------------------------------------
+SESSION START
+2015-08-20 01:28:28.452139
+-------------------------------------------------------
+['ANDREW', 0, 'R', 'R', 'T', '2015-08-20 01:28:30.667059']
+['ANDREW', 1, 'R', 'S', 'UW', '2015-08-20 01:28:30.902984']
+I don't usually lose so easily! You probably just have beginner's luck.
+['ANDREW', 2, 'R', 'S', 'UW', '2015-08-20 01:28:31.099297']
+['ANDREW', 2, 'R', 'R', 'T', '2015-08-20 01:28:31.270898']
+['ANDREW', 3, 'R', 'P', 'MW', '2015-08-20 01:28:31.437813']
+['ANDREW', 4, 'R', 'S', 'UW', '2015-08-20 01:28:31.618124']
+['ANDREW', 5, 'R', 'P', 'MW', '2015-08-20 01:28:31.794635']
+GAME END. GAME SCORE: USER:3 MACHINE:2.
+SESSION END. SESSION SCORE: USER:1 MACHINE:0.
+2015-08-20 01:28:33.930920
+-------------------------------------------------------
+SESSION START
+2015-08-20 01:35:32.534761
+-------------------------------------------------------
+['Andrew', 1, 'S', 'P', 'UW', '2015-08-20 01:35:34.612118']
+I don't usually lose so easily! You probably just have beginner's luck.
+['Andrew', 2, 'S', 'P', 'UW', '2015-08-20 01:35:36.030081']
+['Andrew', 2, 'R', 'R', 'T', '2015-08-20 01:35:36.425813']
+['Andrew', 2, 'S', 'S', 'T', '2015-08-20 01:35:36.815258']
+['Andrew', 3, 'R', 'P', 'MW', '2015-08-20 01:35:37.255097']
+['Andrew', 4, 'S', 'P', 'UW', '2015-08-20 01:35:37.656184']
+['Andrew', 5, 'R', 'P', 'MW', '2015-08-20 01:35:38.135180']
+GAME END. GAME SCORE: USER:3 MACHINE:2.
+SESSION END. SESSION SCORE: USER:1 MACHINE:0.
+2015-08-20 01:35:39.851065
+-------------------------------------------------------
+SESSION START
+2015-08-20 01:36:18.628063
+-------------------------------------------------------
+['ANDREW', 1, 'R', 'S', 'UW', '2015-08-20 01:36:20.332963']
+['ANDREW', 2, 'P', 'S', 'MW', '2015-08-20 01:36:20.762865']
+['ANDREW', 2, 'P', 'P', 'T', '2015-08-20 01:36:21.163862']
+['ANDREW', 3, 'R', 'S', 'UW', '2015-08-20 01:36:22.186598']
+['ANDREW', 4, 'P', 'S', 'MW', '2015-08-20 01:36:22.576508']
+['ANDREW', 4, 'P', 'P', 'T', '2015-08-20 01:36:24.350935']
+['ANDREW', 4, 'P', 'P', 'T', '2015-08-20 01:36:25.383623']
+['ANDREW', 4, 'P', 'P', 'T', '2015-08-20 01:36:26.200001']
+['ANDREW', 4, 'P', 'P', 'T', '2015-08-20 01:36:26.997744']
+['ANDREW', 4, 'P', 'P', 'T', '2015-08-20 01:36:27.745596']
+['ANDREW', 5, 'R', 'S', 'UW', '2015-08-20 01:36:28.646720']
+GAME END. GAME SCORE: USER:3 MACHINE:2.
+SESSION END. SESSION SCORE: USER:1 MACHINE:0.
+2015-08-20 01:36:30.018709
+-------------------------------------------------------
+SESSION START
+2015-08-20 01:57:47.149030
+-------------------------------------------------------
+['Andrew', 0, 'S', 'S', 'T', '2015-08-20 01:57:48.748896']
+['Andrew', 1, 'S', 'P', 'UW', '2015-08-20 01:57:49.151655']
+['Andrew', 2, 'S', 'R', 'MW', '2015-08-20 01:57:49.631932']
+['Andrew', 3, 'S', 'P', 'UW', '2015-08-20 01:57:50.115075']
+['Andrew', 3, 'S', 'S', 'T', '2015-08-20 01:57:50.389128']
+['Andrew', 4, 'S', 'R', 'MW', '2015-08-20 01:57:50.603816']
+My my, I've won twice in a row? I must be very good at this game!
+['Andrew', 5, 'S', 'R', 'MW', '2015-08-20 01:57:50.933946']
+GAME END. GAME SCORE: USER:2 MACHINE:3.
+SESSION END. SESSION SCORE: USER:0 MACHINE:1.
+2015-08-20 01:57:52.535102
+-------------------------------------------------------
+SESSION START
+2015-08-20 03:11:04.525898
+-------------------------------------------------------
+['Andrew', 1, 'S', 'P', 'UW', '2015-08-20 03:11:07.516792']
+['Andrew', 1, 'S', 'S', 'T', '2015-08-20 03:11:07.767074']
+['Andrew', 2, 'S', 'P', 'UW', '2015-08-20 03:11:07.921066']
+['Andrew', 3, 'S', 'R', 'MW', '2015-08-20 03:11:08.096513']
+['Andrew', 4, 'S', 'P', 'UW', '2015-08-20 03:11:08.301992']
+['Andrew', 5, 'S', 'R', 'MW', '2015-08-20 03:11:08.429689']
+GAME END. GAME SCORE: USER:3 MACHINE:2.
+SESSION END. SESSION SCORE: USER:1 MACHINE:0.
+2015-08-20 03:11:10.292663
+-------------------------------------------------------

@@ -1,0 +1,29 @@
+Bob's Stat Log File
+{'Session Losses': 3, 'Session Wins': 11, 'Game Losses': 28, 'Sessions': 14, 'R': 40, 'Game Ties': 35, 'P': 40, 'Game Wins': 41, 'S': 24, 'Games': 104}
+-----------------------------
+Sessions Played:14
+Sessions Won:11
+Sessions Lost:3
+Games Played:104
+Games Won:41
+Games Lost:28
+Rock played 40 times.
+Paper played 40 times.
+Scissors played 24 times.
+-----------------------------
+Session Start Timestamps
+-----------------------------
+2015-08-20 00:57:59
+2015-08-20 00:58:20
+2015-08-20 00:58:49
+2015-08-20 01:02:34
+2015-08-20 01:38:25
+2015-08-20 01:43:42
+2015-08-20 01:47:17
+2015-08-20 02:01:54
+2015-08-20 03:11:24
+2015-08-20 03:11:55
+2015-08-20 03:12:32
+2015-08-20 03:15:05
+2015-08-20 03:15:37
+2015-08-20 03:17:39

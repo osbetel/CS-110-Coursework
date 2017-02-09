@@ -1,0 +1,16 @@
+Cookie's Stat Log File
+{'Games': 10, 'Sessions': 1, 'P': 9, 'Session Wins': 0, 'Session Losses': 1, 'Game Wins': 0, 'R': 1, 'Game Ties': 5, 'Game Losses': 5, 'S': 0}
+-----------------------------
+Sessions Played:1
+Sessions Won:0
+Sessions Lost:1
+Games Played:10
+Games Won:0
+Games Lost:5
+Rock played 1 times.
+Paper played 9 times.
+Scissors played 0 times.
+-----------------------------
+Session Start Timestamps
+-----------------------------
+2015-10-02 13:54:56
